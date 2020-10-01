@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!--img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">-->
-
+<img class="logoImage checkered" galleryimg="true" alt="Image by FlamingText.com" src="https://de21-engine.flamingtext.com/netfu/tmp28005/coollogo_com-17044687.gif">
 
 <!--
 **jacktherock/jacktherock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
