@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
 ![](https://github.com/jacktherock/name_logo/blob/main/coollogo_com-24775296.png?raw=true)
 
 Here are some ideas to get you started:-->
