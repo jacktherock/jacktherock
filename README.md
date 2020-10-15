@@ -27,6 +27,7 @@ Here are some ideas to get you started:-->
 <img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
 
+
 <a href="https://dev.to/jacktherock">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="abhijeet's DEV Profile" height="30" width="30">
 </a>
