@@ -9,14 +9,16 @@
 
   
 ## 🛠 Skills
-`C`
 `C++`
 `Python`
 `Java`
 `Django`
+`React`
 `HTML`
 `CSS`
+`JavaScript`
 `SQL`
+
 
 
 
