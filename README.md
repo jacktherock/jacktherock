@@ -13,6 +13,7 @@
 `Python`
 `Java`
 `Django`
+`Django Rest Framework`
 `React`
 `HTML`
 `CSS`
