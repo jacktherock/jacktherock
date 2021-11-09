@@ -84,9 +84,7 @@
 ## 🌐 Websites
 
  - [Duniya of Tech - Blog](https://duniyaoftechblogs.blogspot.com/)
-  
  - [Local Media Flix - Media Streaming](https://localmediaflix.herokuapp.com/)
- 
  - [My Portfolio](https://detailportfolio.herokuapp.com/)
 
   
