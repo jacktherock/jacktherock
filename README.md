@@ -4,8 +4,8 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jacktherock&label=Profile%20views&color=0e75b6&style=flat" alt="jacktherock" /> </p>
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacktherock&label=Profile%20views&color=0e75b6&style=flat" alt="jacktherock" /> </p>
+
 
 ## 🚀 About Me
 - I'm a Computer Science Student 💻 
@@ -15,11 +15,10 @@
 - 🌱 Currently learning **DSA** & **React**
 - 👯 Looking to collaborate on [Local Media Flix - Media Streaming App](https://github.com/jacktherock/Local-Media-Flix.git)
 - 💬 Ask me about **`C++`**, **`Python`**, **`Django`**
-- 📫 How to reach me `sonawaneabhijeet273@gmail.com` , `[8766919261](8766919261)`
+- 📫 How to reach me sonawaneabhijeet273@gmail.com , [(+91)](+91) [8766919261](8766919261)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktherock" alt="jacktherock" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktherock" alt="jacktherock" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🛠 Skills
 `C++`
@@ -56,7 +55,8 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktherock&show_icons=true&locale=en&layout=compact" alt="jacktherock" /></p>
+## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktherock&show_icons=true&locale=en&layout=compact" alt="jacktherock" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacktherock&show_icons=true&locale=en" alt="jacktherock" /></p>
 
@@ -65,7 +65,9 @@
   
 ## 📚 Blogger
 
- - [Duniya of Tech](https://duniyaoftechblogs.blogspot.com/)
+ - [Duniya of Tech - Blog](https://duniyaoftechblogs.blogspot.com/)
+ - [Local Media Flix - Media Streaming](https://localmediaflix.herokuapp.com/)
+ - [My Portfolio](https://detailportfolio.herokuapp.com/)
 
   
 ## 🙋‍♂️ Authors
