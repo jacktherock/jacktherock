@@ -8,14 +8,14 @@
 
 
 ## 🚀 About Me
-- I'm a Computer Science Student 💻 
-- Working on different interesting projects 👨‍💻 
-- Known with some hacking 😂
+- 💻 I'm a Computer Science Student 💻 
+- 📚 Working on different interesting projects 👨‍💻 
+- 🖥 Known with some hacking 😂
 - 🔭 Currently working on **DSA** & **Compitative Coding**.
 - 🌱 Currently learning **DSA** & **React**
 - 👯 Looking to collaborate on [Local Media Flix - Media Streaming App](https://github.com/jacktherock/Local-Media-Flix.git)
 - 💬 Ask me about **`C++`**, **`Python`**, **`Django`**
-- 📫 How to reach me sonawaneabhijeet273@gmail.com , [(+91)](+91) [8766919261](8766919261)
+- 📫 How to reach me **sonawaneabhijeet273@gmail.com** , [(+91)](#) **[8766919261](#)**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktherock" alt="jacktherock" /></a> </p>
 
@@ -60,7 +60,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacktherock&show_icons=true&locale=en" alt="jacktherock" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacktherock&" alt="jacktherock" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jacktherock&" alt="jacktherock" /></p>
 
   
 ## 📚 Blogger
