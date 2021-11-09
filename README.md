@@ -74,6 +74,7 @@
 ## 📝 Profile Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktherock&show_icons=true&locale=en&layout=compact" alt="jacktherock" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacktherock&show_icons=true&locale=en" alt="jacktherock" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacktherock&" alt="jacktherock" /></p>
 
