@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Hello+Folks+!+Welcome+To+My+Repository+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Hello+Folks+!+Welcome+To+My+Repository+!)](https://git.io/typing-svg)
 
 <h1 align="center">Hello <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"> I'm Abhijeet Sonawane</h1>
 
