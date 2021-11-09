@@ -37,7 +37,7 @@
 
 
 
-## 📧 Connect with me
+## 📧 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhijeets031201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-s-031201" height="30" width="40" /></a>
@@ -47,7 +47,7 @@
 
 
 
-## 🛠 My Daily tools
+## 🛠 My Daily Tools
 
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -66,8 +66,9 @@
 
 ## 📝 Profile Trophies
 
+<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktherock" alt="jacktherock" /></a>
-
+</p>
 
 
 ## 📝 Profile Stats
@@ -83,7 +84,9 @@
 ## 🌐 Websites
 
  - [Duniya of Tech - Blog](https://duniyaoftechblogs.blogspot.com/)
+  
  - [Local Media Flix - Media Streaming](https://localmediaflix.herokuapp.com/)
+ 
  - [My Portfolio](https://detailportfolio.herokuapp.com/)
 
   
