@@ -17,8 +17,6 @@
 - 💬 Ask me about **`C++`**, **`Python`**, **`Django`**
 - 📫 How to reach me **sonawaneabhijeet273@gmail.com** , [(+91)](#) **[8766919261](#)**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktherock" alt="jacktherock" /></a> </p>
-
 
 ## 🛠 Skills
 `C++`
@@ -34,12 +32,12 @@
 `Bootstrap`
 
 ## Connect with me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/abhijeets031201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-s-031201" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhijeet__so3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeet__so3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhijeets3121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhijeets3121" height="30" width="40" /></a>
 </p>
+
 
 ## My Daily tools
 <p align="center">
@@ -55,23 +53,26 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
-## Stats
+
+## 📝 Profile Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktherock" alt="jacktherock" /></a> </p>
+
+
+## 📝 Profile Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktherock&show_icons=true&locale=en&layout=compact" alt="jacktherock" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacktherock&show_icons=true&locale=en" alt="jacktherock" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jacktherock&" alt="jacktherock" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacktherock&" alt="jacktherock" /></p>
 
   
-## 📚 Blogger
-
+## 🌐 Websites
  - [Duniya of Tech - Blog](https://duniyaoftechblogs.blogspot.com/)
  - [Local Media Flix - Media Streaming](https://localmediaflix.herokuapp.com/)
  - [My Portfolio](https://detailportfolio.herokuapp.com/)
 
   
-## 🙋‍♂️ Authors
-
+## 🙋‍♂️ Author
 - [@jacktherock](https://www.github.com/jacktherock)
 
   
