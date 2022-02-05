@@ -24,15 +24,16 @@
 
 `C++`
 `Python`
-`Java`
-`Django`
-`Django Rest Framework`
-`React`
 `HTML`
 `CSS`
 `JavaScript`
-`SQL`
+`Django`
+`Django Rest Framework`
+`ReactJS`
+`MySQL`
+`MongoDB`
 `Bootstrap`
+`Tailwind CSS`
 
 
 
