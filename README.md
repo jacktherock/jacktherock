@@ -10,22 +10,22 @@
 
 <!-- Profiles -->
 <h5 align="right">
-  <a href="https://www.linkedin.com/in/abhijeets031201/" title="Abhijeet Sonawane | LinkedIn">
+  <a href="https://www.linkedin.com/in/abhijeets031201/" title="Abhijeet Sonawane | LinkedIn" target="_blank">
     <img alt="Abhijeet Sonawane | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/AbhijeetS3121" title="Abhijeet Sonawane | Twitter">
+  <a href="https://twitter.com/AbhijeetS3121" title="Abhijeet Sonawane | Twitter" target="_blank">
     <img alt="Abhijeet Sonawane | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
-<!--   <a href="https://www.facebook.com/jacktherock/" title="Abhijeet Sonawane | Facebook">
+<!--   <a href="https://www.facebook.com/jacktherock/" title="Abhijeet Sonawane | Facebook" target="_blank">
     <img alt="Abhijeet Sonawane | Facebook" width="24px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />
   </a> -->
-<!--   <a href="https://www.instagram.com/jacktherock/" title="Abhijeet Sonawane | Instagram">
+<!--   <a href="https://www.instagram.com/jacktherock/" title="Abhijeet Sonawane | Instagram" target="_blank">
     <img alt="Abhijeet Sonawane | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.svg" />
   </a> -->
-  <a href="mailto:sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail">
+  <a href="mailto:sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
     <img alt="Abhijeet Sonawane | Gmail" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
   </a>
-  <a href="https://detailportfolio.herokuapp.com/" title="Abhijeet Sonawane | Portfolio">
+  <a href="https://detailportfolio.herokuapp.com/" title="Abhijeet Sonawane | Portfolio" target="_blank">
     <img alt="" width="23px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />
   </a>
 </h5>
@@ -43,7 +43,7 @@
 - 🔭 I'm currently working on interesting projects
 - 👨‍💻 Known with some hacking 😂
 - 🌱 Currently learning **DSA** / **React** / **NodeJS**
-- 📫 How to reach me <a href="sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail">sonawaneabhijeet273@gmail.com
+- 📫 How to reach me <a href="mailto:sonawaneabhijeet273@gmail.com" target="_blank" title="Abhijeet Sonawane | Gmail">sonawaneabhijeet273@gmail.com
   </a>
 ---
 
