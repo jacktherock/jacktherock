@@ -16,7 +16,7 @@
 <!--   <a href="https://twitter.com/AbhijeetS3121" title="Abhijeet Sonawane | Twitter" target="_blank">
     <img alt="Abhijeet Sonawane | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a> -->
-  <a href="mailto:sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
+  <a href="sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
     <img alt="Abhijeet Sonawane | Gmail" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
   </a>
   <a href="https://detailportfolio.herokuapp.com/" title="Abhijeet Sonawane | Portfolio" target="_blank">
@@ -37,7 +37,7 @@
 - 🔭 I'm currently working on interesting projects
 - 👨‍💻 Known with some hacking 😂
 - 🌱 Currently learning **DSA** / **React** / **NodeJS**
-- 📫 How to reach me <a href="mailto:sonawaneabhijeet273@gmail.com" target="_blank" title="Abhijeet Sonawane | Gmail">sonawaneabhijeet273@gmail.com
+- 📫 How to reach me <a href="sonawaneabhijeet273@gmail.com" target="_blank" title="Abhijeet Sonawane | Gmail">sonawaneabhijeet273@gmail.com
   </a>
 ---
 
