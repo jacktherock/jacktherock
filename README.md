@@ -10,17 +10,14 @@
 
 <!-- Profiles -->
 <h5 align="right">
-  <a href="https://www.linkedin.com/in/abhijeets031201/" title="Abhijeet Sonawane | LinkedIn" target="_blank">
-    <img alt="Abhijeet Sonawane | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-<!--   <a href="https://twitter.com/AbhijeetS3121" title="Abhijeet Sonawane | Twitter" target="_blank">
-    <img alt="Abhijeet Sonawane | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a> -->
+  <a href="https://www.linkedin.com/in/abhijeetsss" title="Abhijeet Sonawane | LinkedIn" target="_blank">
+    <img alt="LinkedIn | Abhijeet" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>&nbsp&nbsp&nbsp&nbsp
   <a href="sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
-    <img alt="Abhijeet Sonawane | Gmail" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
-  </a>
-  <a href="https://detailportfolio.herokuapp.com/" title="Abhijeet Sonawane | Portfolio" target="_blank">
-    <img alt="" width="23px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />
+    <img alt="Gmail | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
+  </a>&nbsp&nbsp&nbsp&nbsp
+  <a href="https://portfolio-abhijeets.netlify.app" title="Portfolio | Abhijeet" target="_blank">
+    <img alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/726/726107.png" />
   </a>
 </h5>
 
@@ -147,9 +144,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 🌐 Websites
 
- - [Duniya of Tech - Blog](https://duniyaoftechblogs.blogspot.com/)
- - [Local Media Flix - Media Streaming](https://localmediaflix.herokuapp.com/)
- - [My Portfolio](https://detailportfolio.herokuapp.com/)
+ - [Portfolio](https://portfolio-abhijeets.netlify.app/)
 
 ---
 
