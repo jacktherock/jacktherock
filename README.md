@@ -11,13 +11,13 @@
 <!-- Profiles -->
 <h5 align="right">
   <a href="https://www.linkedin.com/in/abhijeetsss" title="Abhijeet Sonawane | LinkedIn" target="_blank">
-    <img alt="LinkedIn | Abhijeet" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   <img alt="LinkedIn | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/linkedin.svg" />
   </a>&nbsp&nbsp&nbsp&nbsp
   <a href="sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
     <img alt="Gmail | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
   </a>&nbsp&nbsp&nbsp&nbsp
   <a href="https://portfolio-abhijeets.netlify.app" title="Portfolio | Abhijeet" target="_blank">
-    <img alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/726/726107.png" />
+    <img alt="Portfolio | Abhijeet" width="22px" src="https://cdn-icons-png.flaticon.com/512/726/726107.png" />
   </a>
 </h5>
 
@@ -74,8 +74,9 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a> -->
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/Netlify-024846.svg?logo=netlify&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
 #### 💻 Software and tools
