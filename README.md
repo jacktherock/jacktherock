@@ -1,40 +1,38 @@
-<!-- Visitors Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jacktherock.jacktherock">
 
 <!-- Typing SVG -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Folks+!+Welcome+To+My+Profile+!&center=true&size=30&width=800"]
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=480&lines=%F0%9F%91%8B+Greetings%2C+Fellow+Coders+and+Curious+Minds!;Exploring+My+Digital+Universe!+%F0%9F%8C%8C" alt="Typing SVG" />
   </a>
 </h1>
 
 <!-- Profiles -->
-<h5 align="right">
+<!-- Visitors Badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jacktherock.jacktherock">
+
+<h5 align="left">
   <a href="https://www.linkedin.com/in/abhijeetsss" title="Abhijeet Sonawane | LinkedIn" target="_blank">
-   <img alt="LinkedIn | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/linkedin.svg" />
-  </a>&nbsp&nbsp&nbsp&nbsp
-  <a href="sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
-    <img alt="Gmail | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
-  </a>&nbsp&nbsp&nbsp&nbsp
+    <img alt="LinkedIn | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/linkedin.svg" style="margin-right: 15px;" />
+  </a>
+  <a href="mailto:sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
+    <img alt="Gmail | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" style="margin-right: 15px;" />
+  </a>
   <a href="https://portfolio-abhijeets.netlify.app" title="Portfolio | Abhijeet" target="_blank">
     <img alt="Portfolio | Abhijeet" width="22px" src="https://cdn-icons-png.flaticon.com/512/726/726107.png" />
   </a>
 </h5>
 
-
-
 <!-- Hello -->
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Abhijeet !</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <!-- About -->
 
 
 <!-- Ideas -->
-- 💻 I'm a Computer Science Student
-- 🔭 I'm currently working on interesting projects
-- 👨‍💻 Known with some hacking 😂
-- 🌱 Currently learning **DSA** / **React** / **NodeJS**
-- 📫 How to reach me <a href="sonawaneabhijeet273@gmail.com" target="_blank" title="Abhijeet Sonawane | Gmail">sonawaneabhijeet273@gmail.com
+I'm a passionate Computer Science student and a dedicated frontend developer. With a love for coding and an insatiable curiosity, I'm always eager to explore the vast realm of technology.
+
+- 🔭 I'm constantly diving into intriguing projects, creating innovative solutions and pushing my creative boundaries.
+- 👨‍💻 You could say I have a knack for ethical hacking. 😉 I enjoy tinkering and learning about cybersecurity.
+- 🌱 Currently, I'm honing my skills in **Data Structures & Algorithms (DSA)**, crafting responsive web experiences with **React**, and building server-side logic with **Node.js**.
+- 🎨 As a frontend developer, I'm deeply passionate about crafting delightful user interfaces that leave a lasting impact.
   </a>
 ---
 
@@ -102,9 +100,7 @@
 ---
 
 <!-- GitHub Stats -->
-<details>	
-  <br />
-  <summary><b>⚡ GitHub Stats</b></summary>
+  ## <b>⚡ GitHub Stats</b>
 <br>
 <p align=center>
   <div align=center>
@@ -124,31 +120,15 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacktherock&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false" />
     </a>
   </div>
-  <br>
-  <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-  <br>
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=jacktherock&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-</details>
 
 ---
 
-<!-- Buy me a Coffee -->
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+## 📫 Let's Connect!
 
-<div align="center">
-    <a href="https://www.buymeacoffee.com/abhijeets" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy A Cup of Coffee for Abhijeet" width="170" ></a>
-</div>
+Feel free to drop me a line at [sonawaneabhijeet273@gmail.com](mailto:sonawaneabhijeet273@gmail.com) – I'm always open to intriguing conversations and exciting opportunities.
 
----
+Connect with me on [LinkedIn](https://www.linkedin.com/in/abhijeetsss) to explore more about my journey and experiences.
 
-## 🌐 Websites
+Keep coding and creating! ✨
 
- - [Portfolio](https://portfolio-abhijeets.netlify.app/)
-
----
-
-## 🙋‍♂️ Author
-
-- [@jacktherock](https://www.github.com/jacktherock)
