@@ -115,7 +115,7 @@ I'm a passionate Computer Science student and a dedicated frontend developer. Wi
 
 ## 📫 Let's Connect!
 
-Feel free to drop me a line at [sonawaneabhijeet273@gmail.com](mailto:sonawaneabhijeet273@gmail.com) – I'm always open to intriguing conversations and exciting opportunities.
+Feel free to drop me a message at [sonawaneabhijeet273@gmail.com](mailto:sonawaneabhijeet273@gmail.com) – I'm always open to intriguing conversations and exciting opportunities.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhijeetsss) to explore more about my journey and experiences.
 
