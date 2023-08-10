@@ -7,22 +7,25 @@
 
 <!-- Profiles -->
 <!-- Visitors Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jacktherock.jacktherock">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jacktherock.jacktherock" />
+  
+  <h5 align="left">
+    <a href="https://www.linkedin.com/in/abhijeetsss" title="Abhijeet Sonawane | LinkedIn" target="_blank">
+      <img alt="LinkedIn | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/linkedin.svg" style="margin-right: 15px;" />
+    </a>
+    <a href="mailto:sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
+      <img alt="Gmail | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" style="margin-right: 15px;" />
+    </a>
+    <a href="https://portfolio-abhijeets.netlify.app" title="Portfolio | Abhijeet" target="_blank">
+      <img alt="Portfolio | Abhijeet" width="22px" src="https://cdn-icons-png.flaticon.com/512/726/726107.png" />
+    </a>
+  </h5>
+</div>
 
-<h5 align="left">
-  <a href="https://www.linkedin.com/in/abhijeetsss" title="Abhijeet Sonawane | LinkedIn" target="_blank">
-    <img alt="LinkedIn | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/linkedin.svg" style="margin-right: 15px;" />
-  </a>
-  <a href="mailto:sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
-    <img alt="Gmail | Abhijeet" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" style="margin-right: 15px;" />
-  </a>
-  <a href="https://portfolio-abhijeets.netlify.app" title="Portfolio | Abhijeet" target="_blank">
-    <img alt="Portfolio | Abhijeet" width="22px" src="https://cdn-icons-png.flaticon.com/512/726/726107.png" />
-  </a>
-</h5>
 
 <!-- Hello -->
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Abhijeet !</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Abhijeet!</h1>
 <!-- About -->
 
 
