@@ -18,7 +18,7 @@
     <a href="mailto:sonawaneabhijeet273@gmail.com" title="Abhijeet Sonawane | Gmail" target="_blank">
       <img alt="Gmail | Abhijeet" width="25px" src="https://img.icons8.com/color/gmail-new" style="margin-right: 15px;" />
     </a>
-    <a href="https://portfolio-abhijeets.netlify.app" title="Portfolio | Abhijeet" target="_blank">
+    <a href="https://abhijeets.vercel.app/" title="Abhijeet Sonawane | Portfolio" target="_blank">
       <img alt="Portfolio | Abhijeet" width="22px" src="https://img.icons8.com/color/portfolio" />
     </a>
   </h5>
