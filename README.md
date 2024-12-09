@@ -36,8 +36,7 @@ I'm a passionate Computer Science student and a dedicated frontend developer. Wi
 
 - 🔭 I'm constantly diving into intriguing projects, creating innovative solutions, and pushing my creative boundaries.
 - 👨‍💻 You could say I have a knack for ethical hacking. 😉 I enjoy tinkering and learning about cybersecurity.
-- 🌱 Currently, I'm honing my skills in **Data Structures & Algorithms (DSA)**, crafting responsive web experiences with **React**, and building server-side logic with **Node.js**.
-- 🎨 As a frontend developer, I'm deeply passionate about crafting delightful user interfaces that leave a lasting impact.
+- 🎨 As a software engineer, I'm deeply passionate about crafting delightful user interfaces that leave a lasting impact.
 
 ---
 
